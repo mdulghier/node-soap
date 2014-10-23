@@ -37,5 +37,8 @@
     "jshint": "2.3.0",
     "glob": "~3.2.8",
     "should": "~3.3.0"
+  },
+  "publishConfig": {
+    "registry": "http://npm.trigo.at:4873"
   }
 }
